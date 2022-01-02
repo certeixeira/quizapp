@@ -5,6 +5,7 @@
       <map>
         <entry key="..\:/Users/certe/AndroidStudioProjects/QuizApp/app/src/main/res/drawable-v24/default_option_border_bg.xml" value="0.18981481481481483" />
         <entry key="..\:/Users/certe/AndroidStudioProjects/QuizApp/app/src/main/res/drawable/ic_launcher_background.xml" value="0.23981481481481481" />
+        <entry key="..\:/Users/certe/AndroidStudioProjects/QuizApp/app/src/main/res/drawable/selected_option_border_bg.xml" value="0.33" />
         <entry key="..\:/Users/certe/AndroidStudioProjects/QuizApp/app/src/main/res/layout/activity_main.xml" value="0.33" />
         <entry key="..\:/Users/certe/AndroidStudioProjects/QuizApp/app/src/main/res/layout/activity_quiz_questions.xml" value="0.33" />
       </map>
